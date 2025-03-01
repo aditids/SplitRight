@@ -51,6 +51,3 @@ To start using SplitRight, simply follow these steps:
 
 
 <img src="https://github.com/pbadhe/SplitRight/assets/44113251/d25cd4a7-13d3-49eb-9aa0-9e93ad125f73" width="400">
-
-# Download Application from website
-Link: [https://www.pranavbadhe.live/SplitRight/](https://www.pranavbadhe.live/SplitRight/)
